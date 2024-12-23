@@ -1,0 +1,137 @@
+---
+title: ""
+---
+
+<!--- Este segmento es para deshabilitar el "On this page" --->
+<style>
+.zindex-over-content{
+  display: none;
+}
+</style>
+
+
+:::{.grid .column-body-outset}
+:::{.g-col-12 .g-col-md-6 .m-auto style="text-align: center;"}
+![](images/em_profile.jpg){style="width:18rem; border-radius:100%;"}
+
+</br>
+
+<!--- 
+# Como cambiar el color de los botones
+
+Donde dice: class="btn btn-primary" debes cambiar el que dice "primary" por las otras opciones que se encontraban en este enlace: https://getbootstrap.com/docs/5.1/components/buttons/
+--->
+
+<a href="research.html"><button type="button" class="btn btn-primary" style="border-radius: 5px; margin: 5px;" >Research</button></a>
+<a href="service.html"><button type="button" class="btn btn-primary" style="border-radius: 5px; margin: 5px;" >Service & Outreach</button></a>
+<a href="fieldwork.html"><button type="button" class="btn btn-primary" style="border-radius: 5px; margin: 5px;" >Fieldwork</button></a>
+
+:::
+:::{.g-col-12 .g-col-md-6 .mx-4}
+## Emily S. Sperou
+
+Welcome to my website! and thanks for your interest. Im Emily S. Sperou. I am a fourth-year Biology PhD candidate at Baylor University (almost done!). I completed my undergraduate Bachelor of Science (cum laude) in Biology with an emphasis in marine biology at Sonoma State University, followed by a Master of Science degree in Physiological Ecology. My research focuses on understanding behavioral flexibility in the ecology and physiology of marine mammals. I use various marine mammal tissues (bone, hair, whiskers, blood, among others) and employs stable isotope and hormone analyses to investigate diet, stress responses, reproductive strategies, and overall physiological adaptations to their environment. My current research combines behavioral observations, anatomy, and physiology of a poorly studied apex predator-The leopard seal-to elucidate reproductive patterns.
+:::
+:::{.g-col-12 .mx-4}
+I hope you enjoy visiting my website. you can explore more in depth my scientific work (Research), fieldwork experience (Fieldwork), and the service to profession I provide as well as extracurricular work I do with underrepresented groups in the US (Service & Outreach). Please feel free to contact me if you want to discuss more about my research. 
+
+Best,
+
+Emily
+:::
+
+:::
+
+</br>
+
+```{=html}
+<div id="carouselExampleCaptions" class="carousel slide column-screen" data-bs-ride="carousel">
+  
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    
+  </div>
+  
+  <div class="carousel-inner">
+    
+    <div class="carousel-item active" style="background-color: black;" data-bs-interval="4000">
+      <img src="images/carrusel_about/eli.jpg" class="d-block w-100" alt="Northern Elephant Seal research (2018-2020)" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Año Nuevo State Park, USA</h5>
+        <p>Northern Elephant Seal Research (2018-2020)</p>
+      </div>
+    </div>
+    
+    <div class="carousel-item" style="background-color: black;" data-bs-interval="4000">
+      <img src="images/carrusel_about/emleps.jpg" class="d-block w-100" alt="Leopard seals Research (2022-2023)" style="object-position: top; height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>San Rafael National Park, Chile</h5>
+        <p>Leopard seals Research (2022-2023)</p>
+      </div>
+    </div>
+    
+    <div class="carousel-item" style="background-color: black;" data-bs-interval="4000">
+      <img src="images/carrusel_about/staring.jpg" class="d-block w-100" alt="Searching for Leopard seals in Patagonia, Tierra del Fuego (2023)" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Parry Fjord, Almirantazgo Sound, Chile</h5>
+        <p>Searching for Leopard seals in Patagonia, Tierra del Fuego, (2023)</p>
+      </div>
+    </div>
+   
+     <div class="carousel-item" style="background-color: black;" data-bs-interval="4000">
+      <img src="images/carrusel_about/emlepsskull.jpg" class="d-block w-100" alt="Skull samples collection from museums around the World (ongoing research)" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Natural History Museum of Rio Seco, Punta Arenas</h5>
+        <p>Skull samples collection from museums around the World (Ongoing research)</p>
+      </div>
+    </div>
+  </div>
+  
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+  
+</div>
+```
+
+</br>
+
+
+## Contact Information
+
+:::{.grid}
+
+:::{.g-col-3 .g-col-sm-4 style="text-align: center;"}
+<div style="display: inline;"><a href="mailto:emily_sperou1@baylor.edu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:2rem;"><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg></a></div>
+
+<div class="display-5" style="text-align: center; line-height: 50px; font-size: 20px; display: inline; margin: 5px;">Email</div>
+:::
+
+:::{.g-col-3 .g-col-sm-4 style="text-align: center;"}
+<div style="display: inline;"><a href="https://www.linkedin.com/in/emily-sperou-432b45300/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="width:2rem;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a></div>
+
+
+<div class="display-5" style="text-align: center; line-height: 50px; font-size: 20px; display: inline; margin: 5px;">LinkedIn</div>
+:::
+
+:::{.g-col-3 .g-col-sm-4 style="text-align: center;"}
+<div style="display: inline;"><a href="https://x.com/EmilySperou"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:2rem;"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></a></div>
+
+<div class="display-5" style="text-align: center; line-height: 50px; font-size: 20px; display: inline; margin: 5px;">Twitter</div>
+:::
+
+
+:::
+

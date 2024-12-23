@@ -1,0 +1,205 @@
+---
+title: "[Service to Profession & Outreach]{.d-none}"
+title-block-banner: true
+---
+
+<!--- Sección para añadir el banner con la imagen --->
+<style>
+.quarto-title .column-body {
+  display: none;
+}
+
+.quarto-title-block .quarto-title-banner {
+  display: none;
+}
+
+#title-block-header {
+  margin-block-end: 0rem;
+  position: relative;
+  margin-top: 0rem;
+  height: 60vh;
+  background-image: url(images/service/mcnair4.jpeg);
+  background-size: cover;
+  background-position: center;
+  filter: brightness(50%);
+}
+</style>
+
+<!--- Título del banner --->
+<div class="text-light position-absolute top-50 translate-middle-y px-5" style="z-index:5;">
+<div class="display-2">Service to Profession & Outreach</div>
+</div>
+
+## Service to Profession
+
+:::{.grid .column-body-outset}
+
+:::{.g-col-12 .g-col-md-6 .m-auto style="text-align: center;"}
+
+![](images/service/mcnairlogo.png){style="width:90%;"}
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .m-auto style="text-align: justify;"}
+I have been the graduate assistant for the McNair Scholar Program at Baylor since 2020. The McNair program is designed to prepare undergraduates for doctoral studies through involvement in research and other scholarly activities. McNair participants are either first-Generation college students with financial need, or members of a group that has been traditionally underrepresented in graduate education and have demonstrated strong academic potential. Our goal is to increase graduate degree awards for students from underrepresented segments of society.
+:::
+
+:::{.g-col-12 .g-col-md-6 .m-auto style="text-align: center;"}
+
+![](images/service/trioprogram.png){style="width:90%;"}
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .m-auto style="text-align: justify;"}
+It all started when I became a TRIO upward bound instructor (2018-to Present). Today, I blend these opportunities to students with my research. All my grant applications include a component that aim to continue this mission. With this, I trying to enhance science accessibility and comprehensibility among historically underrepresented groups in STEM wit an specific focus on marine mammal research. 
+:::
+
+:::
+
+</br>
+
+```{=html}
+<div id="carouselExampleCaptions" class="carousel slide column-screen" data-bs-ride="carousel">
+  
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    
+  </div>
+  
+  <div class="carousel-inner">
+    
+    <div class="carousel-item active" style="background-color: black;" data-bs-interval="2000">
+      <img src="images/service/mcnair3.jpeg" class="d-block w-100" alt="" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    
+    <div class="carousel-item" style="background-color: black;" data-bs-interval="2000">
+      <img src="images/service/mcnair5.jpeg" class="d-block w-100" alt="" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    
+     <div class="carousel-item" style="background-color: black;" data-bs-interval="2000">
+      <img src="images/service/mcnair6.jpeg" class="d-block w-100" alt="" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+   
+     <div class="carousel-item" style="background-color: black;" data-bs-interval="2000">
+      <img src="images/service/mcnair1.jpeg" class="d-block w-100" alt="" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
+
+
+## Outreach
+
+:::{.grid .column-body-outset}
+
+:::{.g-col-12 .g-col-md-6 .m-auto style="text-align: center;"}
+
+![](images/service/vrimage.jpg){style="width:90%;"}
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .m-auto style="text-align: justify;"}
+I believe in the importance of communicating scientific work we do to a broader audience. I think is our responsibility rather than a luxury. Recently I obtained a BAJEDI grants and I am developing two innovative educational tools for students: a life-sized model of a leopard seal and an immersive 360-degree virtual reality (VR) video showcasing our team conducting research on wild leopard seals. We will present this engaging content at local low-income schools in the US as well as translate the VR content to Spanish to broader the impact of our work and extend it to the countries we are working on such as Chile.
+:::
+
+:::
+
+</br>
+
+```{=html}
+<div id="carouselExampleCaptions" class="carousel slide column-screen" data-bs-ride="carousel">
+  
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    
+    
+  </div>
+  
+  <div class="carousel-inner">
+    
+    <div class="carousel-item active" style="background-color: black;" data-bs-interval="2000">
+      <img src="images/service/outreach1.jpeg" class="d-block w-100" alt="" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    
+    <div class="carousel-item" style="background-color: black;" data-bs-interval="2000">
+      <img src="images/service/outreach3.jpeg" class="d-block w-100" alt="" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    
+     <div class="carousel-item" style="background-color: black;" data-bs-interval="2000">
+      <img src="images/service/outreach2.jpeg" class="d-block w-100" alt="" style="height: 45rem; object-fit: cover; opacity: 0.5;">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
+
+</br>
+
+## Press
+
+:::{.grid style="gap: 0;"}
+
+:::{.g-col-2}
+**2023**    
+:::
+
+:::{.g-col-10}
+[Baylor University Office of the President. APEX LEOPARD SEALS:         Advancing Research in Antarctica](https://president.web.baylor.edu/news/story/2023/presidential-perspective-june-29-2023).
+:::
+
+:::{.g-col-2}
+**2023**
+:::
+
+:::{.g-col-10}
+Baylor University Media and Public Relations. Large and In            Charge: Baylor Research Team Establishes Baseline Data on Cortisol Levels in Leopard Seals, Mysterious Apex Predators in Antarctica
+:::
+
+:::{.g-col-2}
+**2023**
+:::
+
+:::{.g-col-10}
+[Baylor University Biology Department. Baylor Graduate                 School-Biology Department Video](https://www.youtube.com/watch?v=cIAKNm_RcGo).
+:::
+:::

@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources: 
+    - images/
+    - CNAME
+  post-render: 
+    - open _site/index.html
+
+website:
+  title: "Emily Sperou"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: fieldwork.qmd
+        text: "Fieldwork"
+      - href: service.qmd
+        text: "S & O"
+      - href: Files/sperou_cv.pdf
+        text: CV
+    right: 
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/emily-sperou-432b45300/"
+      - icon: envelope
+        href: "mailto:emily_sperou1@baylor.edu"
+      - icon: twitter
+        href: "https://x.com/EmilySperou"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

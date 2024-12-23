@@ -1,0 +1,89 @@
+---
+title: "[Fieldwork Experience]{.d-none}"
+title-block-banner: true
+---
+
+
+<!--- Replacement of title-block: START ---->
+
+<div class="text-light position-absolute top-50 translate-middle-y px-5" style="z-index:5;">
+    <div class="display-2">Fieldwork Experience</div>
+    <p style="width:70%;">I have been lucky enough to experience several different types of fieldwork that have equipped me with very specific skills along the way. </br>I invite you to revise these experiences. Scroll down!<p>
+</div>
+
+<div class="w-100 top-0 position-absolute" style="height: 110vh; background-color: rgb(0,0,0,0.4); z-index:2;"></div>
+
+:::{.column-screen .position-absolute .w-100 .top-0 style="z-index:1;"}
+```{=html}
+<video autoplay loop muted poster="images/leps/DJI_20231218102359_0050_V.JPG" style="height: 110vh; width: 100%; object-fit: cover;">
+<source src="videos/video-playing-leps.mp4" type="video/mp4">
+</video>
+```
+:::
+
+<div style="height: 80vh;"></div>
+
+
+<!--- Replacement of title-block: END ---->
+
+
+:::{.column-screen}
+
+:::{.parallax style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/fieldwork/image_1.jpg); min-height: 150vh"}
+:::{.grid .column-page .text-light .my-auto .py-5}
+:::{.g-col-12 .g-col-sm-7 .g-start-sm-4}
+## Northern Elephant Seals
+
+Northern elephant seals (Mirounga angustirostris): When working with Dr. Dan Crocker, I participate in several captures of elephant seals where animals were sedated and many different types of samples were collected (measurements, whiskers, blood samples, among others). During this time, I learnt a lot about capturing protocols and data collection Back in the lab, I analyzed sex hormones and their role in reproductive suppression in females. I also analyzed plasma oxytocin concentrations to evaluate its link with age and breeding status.
+
+Skills acquired: Capture of wild seals, sample collection, Hormones analysis (ELISA)... 
+:::
+:::
+:::
+
+:::{.parallax style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/fieldwork/image_2.JPG); min-height: 150vh"}
+:::{.grid .column-page .text-light .my-auto .py-5}
+:::{.g-col-12 .g-col-sm-7 .g-start-sm-4}
+## Leopard Seals of Chile
+
+Little is known about leopard seals (Hydrurga leptonyx) outside Antarctica. I am part of a team studying these apex predators in Chile. I have been in three expedition to Chile to collect samples of leopard seals at two remote locations, one of them a month long staying in the field studying these apex predators. We used biopsy guns to collect samples which I processed during the field for further analysis. back in the lab I analized the samples collected for hormones and stable isotopes analysis, skills that I have acquired during my previous work with leopard seals (sperou et al. 2023).
+Skills acquired: Logistic coordination in remote areas, Biopsy gun handling and shooting, sample processing, stable Isotopes analysis.
+:::
+:::
+:::
+
+:::{.parallax style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/fieldwork/image_3.jpg); min-height: 150vh"}
+:::{.grid .column-page .text-light .my-auto .py-5}
+:::{.g-col-12 .g-col-sm-7 .g-start-sm-4}
+## Leopard Seals of New Zealand
+
+The beautiful Islands of New Zealand are also home of Leopard seals. During 2023, we dedicate almost a month working with our collaborator Dr. Krista van der Linde performing full necropsies of eight leopard seals in her facilities. On top of obtaining overall measurements and performing these necropsies, I also focused on describing their reproductive organs as part of my ongoing research. The skills developed when performing a full necropsy were then tested in the field when my colleague and I needed to perform an on-site improvised necropsy of a dead pup we found while in the field in Chile.
+Skills acquired: perform full necropsy, detailed descriptive anatomy 
+:::
+:::
+:::
+
+:::{.parallax style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/fieldwork/image_5.jpg); min-height: 150vh"}
+:::{.grid .column-page .text-light .my-auto .py-5}
+:::{.g-col-12 .g-col-sm-7 .g-start-sm-4}
+## Ongoing and future research; historical and contemporary reproductive physiology of Leopard Seals
+
+I came up with the idea of collecting skull samples of leopard seal from museums around the world to evaluate comparatively the historical and contemporary reproductive physiology of leopard seals. My advisor and I got an NSF grant to cover this investigation! I have created a network of collaborators around the world to obtain these samples and we are currently visiting some of the most important museums around the world. We will also extract teeth to analyzed temporal variation in stable isotopes, evaluate their diet and aging the animals.
+Skills: Skull and teeth sample collection, global networking, aging and stable isotope analyses from teeth and bone samples.
+:::
+:::
+:::
+
+:::
+
+</br>
+
+## Fieldwork Permits
+
+Northern Elephant Seals:
+
+Leopard Seals in Chile: PINV E-2022-394; CONAF N° XI-21-2022
+
+Leopard Seals in New Zealand:
+
+Skulls in Museums:

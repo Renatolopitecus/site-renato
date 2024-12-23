@@ -1,0 +1,204 @@
+---
+title: "[Research]{.d-none}"
+title-block-banner: true
+---
+
+<!--- Sección para añadir el banner con la imagen --->
+<style>
+.quarto-title .column-body {
+  display: none;
+}
+
+.quarto-title-block .quarto-title-banner {
+  display: none;
+}
+
+#title-block-header {
+  margin-block-end: 0rem;
+  position: relative;
+  margin-top: 0rem;
+  height: 60vh;
+  background-image: url(images/research/research.jpg);
+  background-size: cover;
+  background-position: center;
+  filter: brightness(50%);
+}
+</style>
+
+<!--- Título del banner --->
+<div class="text-light position-absolute top-50 translate-middle-y px-5" style="z-index:5;">
+<div class="display-2">Research</div>
+</div>
+
+## Key Research Interests
+
+:::{.grid}
+:::{.g-col-12 .g-col-md-4}
+<div class="display-5" style="text-align: center; line-height: 50px; font-size: 35px; display: inline; margin: 5px;">Physiology</div>
+:::
+
+:::{.g-col-12 .g-col-md-8 style="text-align: justify;"}
+I'm interested in researching the underlying mechanistic process that determine how marine mammals work. This is the center of my work. 
+:::
+
+:::{.g-col-12 .g-col-md-4}
+<div class="display-5" style="text-align: center; line-height: 50px; font-size: 35px; display: inline; margin: 5px;">Ecology</div>
+:::
+
+:::{.g-col-12 .g-col-md-8 style="text-align: justify;"}
+Studying the interaction of organisms with each other and their physical environment is also one of my research interest. I explore ecology under the premise of animal physiology (intrinsic factors that would allow them-or not-to cope with their environment where they live).
+:::
+
+:::{.g-col-12 .g-col-md-4}
+<div class="display-5" style="text-align: center; line-height: 50px; font-size: 35px; display: inline; margin: 5px;">Behavior</div>
+:::
+
+:::{.g-col-12 .g-col-md-8 style="text-align: justify;"}
+The physiological mechanisms that lead marine mammals to cope with their environment often entail behavioral changes. I'm also very interested in both qualitatively and quantitatively study the behavior associated to marine mammals ecophysiology.
+:::
+:::
+
+## Publications
+
+In this section you can check a brief summary of my publications. If you want to dig deeper, I provide links where you can download them. Questions? feel free to [contact me!](mailto:emily_sperou1@baylor.edu)!
+
+:::{.grid}
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/sperou2023.jpg" class="card-img-top" alt="Leopard seal publication image">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Large and in charge: cortisol levels vary with sex, diet, and body mass in an Antarctic predator, the leopard seal (2023)</h5>
+    <p class="card-text">I measured cortisol in leopard seals and examined intraspecific variation. Leopard seals show the highest circulating cortisol concentration ever reported for pinnipeds and also, the highest across 26 closely related Arctoid taxa. Cortisol varied by sex, body mass, and diet.</p>
+    <a href="https://doi.org/10.3389/fmars.2023.1179236" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/charapata2023.jpg" class="card-img-top" alt="charapata image official abstract">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Whiskers provide time-series of toxic and essential trace elements, Se:Hg molar ratios, and stable isotope values of an apex Antarctic predator, the leopard seal (2023)</h5>
+    <p class="card-text">Led by Patrick Charapata, we found that leopard seal whiskers are an incredible tool for trace element biomonitoring. Hg, Pb, Cd and Se changed over time in relation to ẟ15N and ẟ13C values. We document higher Hg burden compared to previous studies and the Se:Hg molar ratios suggest leopard seals use Se to offset Hg Burden. How cool is that!</p>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969722057503?via%3Dihub" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/molinaro2022.PNG" class="card-img-top" alt="captive crocodile">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Use of Blood Lactate in Assessment of Manual Capture Techniques of Zoo-Housed Crocodilians (2022)</h5>
+    <p class="card-text">Yes, not just marine mammals; crocodiles too! Led by Holly Grace Molinaro we aimed to clarify the relationship between manual capture techniques, blood lactate levels, and other varying factors in order to minimize physiological stress during manual capture and restraint events of zoo-housed crocodilians. We collected 53 blood samples of ten crocodilian species and analyzed for lactate. Measurements were related to specific behavioral and extrinsic factors. Blood lactate could be use as a new welfare marker for crocodilians in zoos.</p>
+    <a href="https://www.mdpi.com/2076-2615/12/3/397" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/rzucidlo2021.jpg" class="card-img-top" alt="graphs adipokines">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Changes in serum adipokines during natural extended fasts in female northern elephant seals (2021)</h5>
+    <p class="card-text">Endotherms rely on adipose tissue to thermoregulate, store fat, and as an endocrine organ. In N. Elephant seals and led by Caroline L. Rzucidlo, we found that adipokines (cell-signaling molecules produce by adipose tissue that play important energy/metabolic role) change within fasting periods. Circulating adipokines are associated with body composition, cortisol and IL-6. they are also related to glucose metabolism and insulin sensitivity in seals.
+    I love Elies :) </p>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0016648021000538?via%3Dihub" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+
+:::{.g-col-12}
+### <img src="images/popcorn.svg" style="width:3rem;"> Get your popcorns...Coming up soon! (accepted and in review)
+
+
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/kienle_in_rev.jpg" class="card-img-top" alt="leps reproducing">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">First paired observations of sexual behavior and calls in wild leopard seals (ACCEPTED!)</h5>
+    <p class="card-text">Led by Sarah Kienle, we opportunistically observed and report the first sexual interaction of leopard seals in the wild and outside Antarctica! An example of the importance of observing nature when doing sciences.</p>
+    <a href="" class="btn btn-primary">Coming soon</a>
+  </div>
+</div>
+
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/borras_in_rev.jpg" class="card-img-top" alt="leps in Chile">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Occurrence, residency, and habitat characterization of leopard seals in Chile (in Review)</h5>
+    <p class="card-text">Led by Renato Borras-Chavez, we present evidence that leopard seals have been living in Chile for centuries following multiyear resident leps, with numbers of leps increasing and several birth records for the region. Patagonia should be incorporated as part of the species breeding distribution.</p>
+    <a href="" class="btn btn-primary">Coming soon</a>
+  </div>
+</div>
+
+```
+:::
+
+:::
+
+## Awards
+
+:::{.grid style="gap: 0;"}
+
+:::{.g-col-2}
+**2024**
+:::
+:::{.g-col-10}
+Graduate Woman in Science National Fellowship (GWS)
+:::
+
+:::{.g-col-2}
+**2022-2023**
+:::
+:::{.g-col-10}
+Certificate of Excellence in Research, Baylor University
+:::
+
+:::{.g-col-2}
+**2019**
+:::
+:::{.g-col-10}
+Honorable Mention, NSF Graduate Research Fellowship Program
+:::
+
+:::{.g-col-2}
+**2017**
+:::
+:::{.g-col-10}
+Magna Cum Laude (B.S.), Sonoma State University
+:::
+
+:::{.g-col-2}
+**2014-2017**
+:::
+:::{.g-col-10}
+Sonoma State University Dean’s List
+:::
+
+:::{.g-col-2}
+**2014-2017**
+:::
+:::{.g-col-10}
+Sonoma State University Presidential Scholar
+:::
+:::
+
+For information on the grants I have obtained so far, you can download my complete CV "[here](Files/sperou_cv.pdf)" or "[contact me](mailto:emily_sperou1@baylor.edu)".
