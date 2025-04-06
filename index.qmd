@@ -17,7 +17,7 @@ title: ""
   height: calc(100vh + 20px);
   width: 100vw;
   top: -20px;
-  background-image: url(images/lepsboat.jpg);
+  background-image: url(images/lepice.jpg);
   background-size: cover;
   background-position: center;
   filter: brightness(50%);

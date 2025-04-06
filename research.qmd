@@ -30,37 +30,131 @@ title-block-banner: true
 <div class="display-2">Research</div>
 </div>
 
-## Key Research Interests
+## The Vision
 
 :::{.grid}
 :::{.g-col-12 .g-col-md-4}
-<div class="display-5" style="text-align: center; line-height: 50px; font-size: 35px; display: inline; margin: 5px;">Physiology</div>
+<div class="display-5" style="text-align: center; line-height: 50px; font-size: 35px; display: inline; margin: 5px;">Integrative Ecology</div>
 :::
 
 :::{.g-col-12 .g-col-md-8 style="text-align: justify;"}
-I'm interested in researching the underlying mechanistic process that determine how marine mammals work. This is the center of my work. 
-:::
-
-:::{.g-col-12 .g-col-md-4}
-<div class="display-5" style="text-align: center; line-height: 50px; font-size: 35px; display: inline; margin: 5px;">Ecology</div>
-:::
-
-:::{.g-col-12 .g-col-md-8 style="text-align: justify;"}
-Studying the interaction of organisms with each other and their physical environment is also one of my research interest. I explore ecology under the premise of animal physiology (intrinsic factors that would allow them-or not-to cope with their environment where they live).
-:::
-
-:::{.g-col-12 .g-col-md-4}
-<div class="display-5" style="text-align: center; line-height: 50px; font-size: 35px; display: inline; margin: 5px;">Behavior</div>
-:::
-
-:::{.g-col-12 .g-col-md-8 style="text-align: justify;"}
-The physiological mechanisms that lead marine mammals to cope with their environment often entail behavioral changes. I'm also very interested in both qualitatively and quantitatively study the behavior associated to marine mammals ecophysiology.
+As an integrative ecologist, I work in transdisciplinary sciences, the space between foraging ecology, behavioral ecology, population ecology, and socioecology. My research explores predator-environment interactions by combining methods such as: diet estimators, geospatial analysis, computer vision, machine learning, and social sciences. By integrating multiple lines of research, different methods and working together with a variety of institutions, I aim to use advanced ecological knowledge to help building science-based conservation and monitoring programs.
 :::
 :::
 
 ## Publications
 
-In this section you can check a brief summary of my publications. If you want to dig deeper, I provide links where you can download them. Questions? feel free to [contact me!](mailto:renato.borraschavez@uri.edu)!
+In this section you can check a brief summary of my publications. They are separated by study model. If you want to dig deeper, I provide links where you can download them. Questions? feel free to [contact me!](mailto:renato.borraschavez@uri.edu)!
+
+## Leopard Seals 
+:::{.grid}
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/borras2024.jpg" class="card-img-top" alt="Leopard seal publication image">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Occurrence, residency, and habitat characterization of leopard seals in Chile (2024)</h5>
+    <p class="card-text">I challenged the view of leopard seals as strictly Antarctic, quantifying their long-term presence in Chilean Patagonia. Using citizen sciences, strandings, and research expeditions, we identified multiyear resident aggregations in two areas of Patagonia and provide an account of births in Chile. Then Dr. Rodrigo Soteres did his magic and with his glacier expertise we characterized their glacial habitat preferences and assessed potential glaciars that may hold leopardseals across Chile. Findings highlight their reliance on ice and vulnerability to climate change-driven glacial retreat.</p>
+    <a href="https://doi.org/10.3389/fevo.2024.1448098" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/kienle2024.jpg" class="card-img-top" alt="kienle mating">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">First paired observations of sexual behavior and calls in wild leopard seals (2024)</h5>
+    <p class="card-text">This was our first baby from our work in the San Rafael National Park. Led by Dr. Kienle we meticulously documented a two-hour courtship interaction between a male and a female in Chile, providing the first detailed account of their sexual behaviors and associated vocalizations in their natural habitat. All this highlight Laguna San Rafael in South America as an important breeding area for this Southern Ocean predator.</p>
+    <a href="https://doi.org/10.1007/s00300-024-03275-4" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/charapata2023.jpg" class="card-img-top" alt="charapata image official abstract">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Whiskers provide time-series of toxic and essential trace elements, Se:Hg molar ratios, and stable isotope values of an apex Antarctic predator, the leopard seal (2023)</h5>
+    <p class="card-text">Led by Patrick Charapata, we found that leopard seal whiskers are an incredible tool for trace element biomonitoring. Hg, Pb, Cd and Se changed over time in relation to ẟ15N and ẟ13C values. We document higher Hg burden compared to previous studies and the Se:Hg molar ratios suggest leopard seals use Se to offset Hg Burden. How cool is that!</p>
+    <a href="https://doi.org/10.1016/j.scitotenv.2022.158651" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/sperou2023.jpg" class="card-img-top" alt="emilys cortisol">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Large and In Charge: Cortisol levels vary with sex, diet, and body mass in an Antarctic predator, the leopard seal (2023)</h5>
+    <p class="card-text">Dr. Sperou lead a great work where she examined cortisol levels in leopard seals, linking them to sex, body mass, and diet. Larger individuals (females) with high-trophic diets have lower cortisol, while smaller individuals show the opposite. Leopard seals exhibit exceptionally high cortisol, possibly an adaptation. Findings provide crucial baseline data for assessing their response to changes.</p>
+    <a href="https://doi.org/10.3389/fmars.2023.1179236" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+
+
+
+
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/kienle2022.jpg" class="card-img-top" alt="moving leps">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Plasticity in the morphometrics and movements of an Antarctic apex predator, the leopard seal (2022)</h5>
+    <p class="card-text">Dr. Sarah Kienle analyzed the satellite tracking data of our 22 leopard seals tagged near the Western Antarctic Peninsula to investigate their movement patterns including diving behavior. We also found female-biased sexual size dimorphism in leopard seals, with females being considerably larger than males, and also highlights substantial individual variability in how far the seals travel and their diving strategies. Ultimately, the findings suggest that this flexibility may be crucial for leopard seals to adapt to the rapidly changing environment of the Southern Ocean.</p>
+    <a href="https://doi.org/10.3389/fmars.2022.976019" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+
+:::{.g-col-12}
+### <img src="images/popcorn.svg" style="width:3rem;"> Get your popcorns...Coming up soon! (leopard seal MSs accepted and in review)
+:::
+
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/sperourev.jpg" class="card-img-top" alt="specialists">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Individual Specialization in a Generalist Apex Predator: The Leopard Seal (ACCEPTED!)</h5>
+    <p class="card-text">Dr. Sperou led this work that aimed to explore feeding habits of leopard seals, challenging the assumption that individuals are always dietary generalists. Emily analyzed stable isotopes signatures in whiskers to reveal significant individual specialization in their diets, with most seals consistently focusing on specific prey while only a few acting as true generalists. This specialization, even by a small number of seals, have a substantial impact on local prey populations, highlighting the broader ecological importance of understanding individual-level foraging behaviors in apex predators.</p>
+    <a href="" class="btn btn-primary">Coming soon</a>
+  </div>
+</div>
+
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/hope.jpg" class="card-img-top" alt="rafaela">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">First Record of Prolonged Postmortem Attentive Behavior in Pinnipeds: Behavioral Observations from Leopard Seals (in Review)</h5>
+    <p class="card-text">Led by a co-first authorship of Drs Sperou and Borras-Chavez, we documented Postmortem attentive behavior (PAB), a rare form of epimeletic behavior, in leopard seals for the first time and the longest ever recorded in pinnipeds. We present pictures and videos of four different ocassions of PAB in multiple sites of Patagonia. The animals were carrying and mounthing the carcass of their pups. We also performed a full necropsy on one of the pups. You guys cannot imagine how cool was to observe this behavior in real time</p>
+    <a href="" class="btn btn-primary">Coming soon</a>
+  </div>
+</div>
+
+```
+:::
+
+:::
+## Fur Seals
 
 :::{.grid}
 :::{.g-col-12 .g-col-md-6}
@@ -153,6 +247,9 @@ In this section you can check a brief summary of my publications. If you want to
 :::
 
 :::
+
+
+
 
 ## Awards
 
