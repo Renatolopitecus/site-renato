@@ -7,7 +7,7 @@ project:
     - open _site/index.html
 
 website:
-  title: "Emily Sperou"
+  title: "Renato Borras-Chavez"
   navbar:
     left:
       - href: index.qmd
