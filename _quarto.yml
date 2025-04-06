@@ -3,8 +3,6 @@ project:
   resources: 
     - images/
     - CNAME
-  post-render: 
-    - open _site/index.html
 
 website:
   title: "Renato Borras-Chavez"
