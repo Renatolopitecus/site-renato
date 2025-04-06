@@ -60,15 +60,15 @@ The physiological mechanisms that lead marine mammals to cope with their environ
 
 ## Publications
 
-In this section you can check a brief summary of my publications. If you want to dig deeper, I provide links where you can download them. Questions? feel free to [contact me!](mailto:emily_sperou1@baylor.edu)!
+In this section you can check a brief summary of my publications. If you want to dig deeper, I provide links where you can download them. Questions? feel free to [contact me!](mailto:renato.borraschavez@uri.edu)!
 
 :::{.grid}
 :::{.g-col-12 .g-col-md-6}
 ```{=html}
 <div class="card" style="width: 100%;">
-  <img src="images/abstracts/sperou2023.jpg" class="card-img-top" alt="Leopard seal publication image">
+  <img src="images/abstracts/borras2024.jpg" class="card-img-top" alt="Leopard seal publication image">
   <div class="card-body">
-    <h5 class="card-title" style="font-weight: bold;">Large and in charge: cortisol levels vary with sex, diet, and body mass in an Antarctic predator, the leopard seal (2023)</h5>
+    <h5 class="card-title" style="font-weight: bold;">Occurrence, residency, and habitat characterization of leopard seals in Chile (2024)</h5>
     <p class="card-text">I measured cortisol in leopard seals and examined intraspecific variation. Leopard seals show the highest circulating cortisol concentration ever reported for pinnipeds and also, the highest across 26 closely related Arctoid taxa. Cortisol varied by sex, body mass, and diet.</p>
     <a href="https://doi.org/10.3389/fmars.2023.1179236" class="btn btn-primary">Full Publication</a>
   </div>

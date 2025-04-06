@@ -12,7 +12,7 @@ title: ""
 
 :::{.grid .column-body-outset}
 :::{.g-col-12 .g-col-md-6 .m-auto style="text-align: center;"}
-![](images/em_profile.jpg){style="width:18rem; border-radius:100%;"}
+![](images/renato.jpeg){style="width:18rem; border-radius:100%;"}
 
 </br>
 
@@ -28,16 +28,16 @@ Donde dice: class="btn btn-primary" debes cambiar el que dice "primary" por las 
 
 :::
 :::{.g-col-12 .g-col-md-6 .mx-4}
-## Emily S. Sperou
+## Renato Borras-Chavez
 
-Welcome to my website! and thanks for your interest. Im Emily S. Sperou. I am a fourth-year Biology PhD candidate at Baylor University (almost done!). I completed my undergraduate Bachelor of Science (cum laude) in Biology with an emphasis in marine biology at Sonoma State University, followed by a Master of Science degree in Physiological Ecology. My research focuses on understanding behavioral flexibility in the ecology and physiology of marine mammals. I use various marine mammal tissues (bone, hair, whiskers, blood, among others) and employs stable isotope and hormone analyses to investigate diet, stress responses, reproductive strategies, and overall physiological adaptations to their environment. My current research combines behavioral observations, anatomy, and physiology of a poorly studied apex predator-The leopard seal-to elucidate reproductive patterns.
+Hola! Im Renato Borras-Chavez, PhD. Im a 2nd-year Postdoctoral Researcher working at Rhode Island University in the United States. I am an ecophysiologist working in what I call "Integrative Predator Ecology", in my case, the interface between foraging ecology, population ecology and Physiology. In the last 10 years, my research models have mostly been pinnipeds. Since I am Chilean, most of my work has been done in Chilean species as well as Antarctic species. Before these ten years I was lucky enough to also work in subtidal ecology, specifically in ecology of Kelp forest. This gave me a broader perspective of how ecosystems work and are regulated and the "integrative" word of my research is also the result of accepting a big integration of multidisciplines, approaches and collaborators for the understanding and conservation of the ecoystems I work in. 
 :::
 :::{.g-col-12 .mx-4}
-I hope you enjoy visiting my website. you can explore more in depth my scientific work (Research), fieldwork experience (Fieldwork), and the service to profession I provide as well as extracurricular work I do with underrepresented groups in the US (Service & Outreach). Please feel free to contact me if you want to discuss more about my research. 
+You can explore more in depth my scientific work (Research), fieldwork experience (Fieldwork), Colaborative Network (Network), and the service to profession I provide and my attempts of sciences communication and outreach (Service & Outreach). Please feel free to contact me if you want to discuss more about my research or if you want to work together! 
 
 Best,
 
-Emily
+Renato
 :::
 
 :::
