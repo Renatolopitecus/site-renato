@@ -12,20 +12,38 @@ title: ""
 
 #title-block-header {
   margin-block-end: 0rem;
-  position: relative;
+  position: absolute;
   margin-top: 0rem;
-  height: 60vh;
+  height: calc(100vh + 20px);
+  width: 100vw;
+  top: -20px;
   background-image: url(images/lepsboat.jpg);
   background-size: cover;
   background-position: center;
-  filter: brightness(80%);
+  filter: brightness(50%);
+  z-index:-1;
 }
+
+.texto-header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+}
+
 </style>
 
 <!--- Título del banner --->
-<div class="text-light position-absolute top-50 translate-middle-y px-5" style="z-index:5;">
-<div class="display-2">Research</div>
+<div class="texto-header text-light">
+<div class="display-2">Renato Borras-Chavez, PhD</div>
+<div class="display-5">Integrative Ecologist</div>
 </div>
+
+<div class="column-screen" id="title-block-header">
+</div>
+
+<div class="vh-100"></div>
 
 <!--- Este segmento es para deshabilitar el "On this page" --->
 <style>
