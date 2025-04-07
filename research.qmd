@@ -82,7 +82,7 @@ In this section you can check a brief summary of my publications. They are separ
   <img src="images/abstracts/charapata2023.jpg" class="card-img-top" alt="charapata image official abstract">
   <div class="card-body">
     <h5 class="card-title" style="font-weight: bold;">Whiskers provide time-series of toxic and essential trace elements, Se:Hg molar ratios, and stable isotope values of an apex Antarctic predator, the leopard seal (2023)</h5>
-    <p class="card-text">Led by Patrick Charapata, we found that leopard seal whiskers are an incredible tool for trace element biomonitoring. Hg, Pb, Cd and Se changed over time in relation to ẟ15N and ẟ13C values. We document higher Hg burden compared to previous studies and the Se:Hg molar ratios suggest leopard seals use Se to offset Hg Burden. How cool is that!</p>
+    <p class="card-text">Led by Dr Charapata, we found that leopard seal whiskers are an incredible tool for trace element biomonitoring. Hg, Pb, Cd and Se changed over time in relation to ẟ15N and ẟ13C values. We document higher Hg burden compared to previous studies and the Se:Hg molar ratios suggest leopard seals use Se to offset Hg Burden. How cool is that!</p>
     <a href="https://doi.org/10.1016/j.scitotenv.2022.158651" class="btn btn-primary">Full Publication</a>
   </div>
 </div>
@@ -160,11 +160,11 @@ In this section you can check a brief summary of my publications. They are separ
 :::{.g-col-12 .g-col-md-6}
 ```{=html}
 <div class="card" style="width: 100%;">
-  <img src="images/abstracts/borras2024.jpg" class="card-img-top" alt="Leopard seal publication image">
+  <img src="images/abstracts/borras2023.jpg" class="card-img-top" alt="lactation">
   <div class="card-body">
-    <h5 class="card-title" style="font-weight: bold;">Occurrence, residency, and habitat characterization of leopard seals in Chile (2024)</h5>
-    <p class="card-text">I measured cortisol in leopard seals and examined intraspecific variation. Leopard seals show the highest circulating cortisol concentration ever reported for pinnipeds and also, the highest across 26 closely related Arctoid taxa. Cortisol varied by sex, body mass, and diet.</p>
-    <a href="https://doi.org/10.3389/fmars.2023.1179236" class="btn btn-primary">Full Publication</a>
+    <h5 class="card-title" style="font-weight: bold;">Time and behavioral adjustments to lactation: Insights from a marine predator. Marine Mammal Science (2023)</h5>
+    <p class="card-text">I examined how lactating Antarctic fur seal females adjust foraging behavior compared to non-lactating seals. Diving/tracking data reveal moms work hard! taking shorter, consistent trips, spend less time onshore, and modify dive behavior to meet lactation demands. Findings highlight behavioral trade-offs make to cope with energetic constraints associated to lactation.</p>
+    <a href="https://doi.org/10.1111/mms.12970" class="btn btn-primary">Full Publication</a>
   </div>
 </div>
 
@@ -174,11 +174,11 @@ In this section you can check a brief summary of my publications. They are separ
 :::{.g-col-12 .g-col-md-6}
 ```{=html}
 <div class="card" style="width: 100%;">
-  <img src="images/abstracts/charapata2023.jpg" class="card-img-top" alt="charapata image official abstract">
+  <img src="images/abstracts/ouled2024.jpg" class="card-img-top" alt="climate change fur seals">
   <div class="card-body">
-    <h5 class="card-title" style="font-weight: bold;">Whiskers provide time-series of toxic and essential trace elements, Se:Hg molar ratios, and stable isotope values of an apex Antarctic predator, the leopard seal (2023)</h5>
-    <p class="card-text">Led by Patrick Charapata, we found that leopard seal whiskers are an incredible tool for trace element biomonitoring. Hg, Pb, Cd and Se changed over time in relation to ẟ15N and ẟ13C values. We document higher Hg burden compared to previous studies and the Se:Hg molar ratios suggest leopard seals use Se to offset Hg Burden. How cool is that!</p>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969722057503?via%3Dihub" class="btn btn-primary">Full Publication</a>
+    <h5 class="card-title" style="font-weight: bold;">Future climate‐induced distribution shifts in a sexually dimorphic key predator of the Southern Ocean (2024)</h5>
+    <p class="card-text">Lead by Dr Jazel Ouled-Cheikh he did an incredible work projecting climate change impacts on Antarctic fur seals’ foraging distribution. Using satellite tracking and Earth System Models, we predict how warming scenarios affect habitat suitability for males and females in breeding and non-breeding seasons. We examine sex-specific responses, considering their distinct foraging locations and potential consequences for species distribution.</p>
+    <a href="https://doi.org/10.1111/gcb.17191" class="btn btn-primary">Full Publication</a>
   </div>
 </div>
 
@@ -188,11 +188,11 @@ In this section you can check a brief summary of my publications. They are separ
 :::{.g-col-12 .g-col-md-6}
 ```{=html}
 <div class="card" style="width: 100%;">
-  <img src="images/abstracts/molinaro2022.PNG" class="card-img-top" alt="captive crocodile">
+  <img src="images/abstracts/klemmedson2020.jpg" class="card-img-top" alt="otoliths dance">
   <div class="card-body">
-    <h5 class="card-title" style="font-weight: bold;">Use of Blood Lactate in Assessment of Manual Capture Techniques of Zoo-Housed Crocodilians (2022)</h5>
-    <p class="card-text">Yes, not just marine mammals; crocodiles too! Led by Holly Grace Molinaro we aimed to clarify the relationship between manual capture techniques, blood lactate levels, and other varying factors in order to minimize physiological stress during manual capture and restraint events of zoo-housed crocodilians. We collected 53 blood samples of ten crocodilian species and analyzed for lactate. Measurements were related to specific behavioral and extrinsic factors. Blood lactate could be use as a new welfare marker for crocodilians in zoos.</p>
-    <a href="https://www.mdpi.com/2076-2615/12/3/397" class="btn btn-primary">Full Publication</a>
+    <h5 class="card-title" style="font-weight: bold;">Variability in age of a Southern Ocean myctophid (Gymnoscopelus nicholsi) derived from scat-recovered otoliths (2020)</h5>
+    <p class="card-text">Usually, we work with Antarctic fur seal poop and find hard remains such as otoliths (a little fish ear bone found from the myctophid fish they eat). Then we have awesome people like Angela Klemmedson that led this research and analyzed this huge 16-year period otolith dataset. We understand changes in the age structure and reconstructed length of the myctophid population, ultimately demonstrating the value of using predator diets to monitor otherwise elusive but ecologically significant prey species.</p>
+    <a href="https://doi.org/10.3354/meps13176" class="btn btn-primary">Full Publication</a>
   </div>
 </div>
 ```
@@ -201,19 +201,32 @@ In this section you can check a brief summary of my publications. They are separ
 :::{.g-col-12 .g-col-md-6}
 ```{=html}
 <div class="card" style="width: 100%;">
-  <img src="images/abstracts/rzucidlo2021.jpg" class="card-img-top" alt="graphs adipokines">
+  <img src="images/abstracts/chen2023.jpg" class="card-img-top" alt="authomatic recog">
   <div class="card-body">
-    <h5 class="card-title" style="font-weight: bold;">Changes in serum adipokines during natural extended fasts in female northern elephant seals (2021)</h5>
-    <p class="card-text">Endotherms rely on adipose tissue to thermoregulate, store fat, and as an endocrine organ. In N. Elephant seals and led by Caroline L. Rzucidlo, we found that adipokines (cell-signaling molecules produce by adipose tissue that play important energy/metabolic role) change within fasting periods. Circulating adipokines are associated with body composition, cortisol and IL-6. they are also related to glucose metabolism and insulin sensitivity in seals.
-    I love Elies :) </p>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0016648021000538?via%3Dihub" class="btn btn-primary">Full Publication</a>
+    <h5 class="card-title" style="font-weight: bold;">Semi-Supervised Deep Learning for Estimating Fur Seal Numbers (2023)</h5>
+    <p class="card-text">And now Juan Fernandez Fur seals!. We put together students from Chile and New Zealand to work on this problem and it worked! Rujia Chen led the publication where we investigate a semi-supervised deep learning approach to estimate the population of Juan Fernandez fur seals using drone imagery. We use the Faster R-CNN algorithm, training the model with a limited number of manually labeled seals and then testing its ability to identify and count seals in unlabeled images. Results demonstrate the potential of this method for wildlife monitoring.</p>
+    <a href="https://ieeexplore.ieee.org/document/10343918" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/borrasbook.jpg" class="card-img-top" alt="jffs bookchap">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Juan Fernandez Fur Seal Arctocephalus philippii (Peters, 1866) (2025)</h5>
+    <p class="card-text">Together with two brilliant researchers Dr. Maritza Sepúlveda and Dr. Constanza Toro, I lead this in-depth overview of the least study fur seal of the world, the Juan Fernandez fur seal (Arctocephalus philippii). This book chapter soon to be published in the book “Mammals of Middle and South America: Carnivora” from Springer Nature Publisher covered the species taxonomy, distribution, morphology, physiology, genetics, life history, behavior, diet, and ecology. We also address conservation status, threats from climate change and human activities, and outlines key management strategies and research needs for protecting this endemic and understudied Chilean pinniped.</p>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0016648021000538?via%3Dihub"
+    <a href="" class="btn btn-primary">In Press</a>
   </div>
 </div>
 ```
 :::
 
 :::{.g-col-12}
-### <img src="images/popcorn.svg" style="width:3rem;"> Get your popcorns...Coming up soon! (accepted and in review)
+## Other Creatures
 
 
 :::
@@ -221,11 +234,11 @@ In this section you can check a brief summary of my publications. They are separ
 :::{.g-col-12 .g-col-md-6}
 ```{=html}
 <div class="card" style="width: 100%;">
-  <img src="images/abstracts/kienle_in_rev.jpg" class="card-img-top" alt="leps reproducing">
+  <img src="images/abstracts/woodman2024.jpg" class="card-img-top" alt="seal counts">
   <div class="card-body">
-    <h5 class="card-title" style="font-weight: bold;">First paired observations of sexual behavior and calls in wild leopard seals (ACCEPTED!)</h5>
-    <p class="card-text">Led by Sarah Kienle, we opportunistically observed and report the first sexual interaction of leopard seals in the wild and outside Antarctica! An example of the importance of observing nature when doing sciences.</p>
-    <a href="" class="btn btn-primary">Coming soon</a>
+    <h5 class="card-title" style="font-weight: bold;">CS-PHOC: weekly census counts of Southern Ocean phocids at Cape Shirreff, Livingston Island (2024)</h5>
+    <p class="card-text">I have to give a bit more context to this data paper. I long admired the work done by Daniel Torres with pinnipeds at Cape Shirreff, Antarctica for more than 20 years, being the first guy ever putting a station there. He collected a lot of data that was lost in piles of printed documents at the Chilean Antarctic Institute (INACH). I recovered it and reorganized it and then told Dr. Goebel and Dr. Krause that we should put together this data with the next 20 years of data they collected at this location and Sam Woodman was the bartender of this cocktail. The Cape Shirreff Phocid Census (CS-PHOC) dataset is a valuable collection of weekly counts of four seal species at Cape Shirreff, Antarctica, spanning most austral summers since 1997. It is the result of a long-term collaboration between INACH and the U.S. Antarctic Marine Living Resources (AMLR) Program to monitor phocid populations in a region undergoing rapid climate change. This publicly available dataset on the SCAR Biodiversity Portal provides crucial information for understanding population trends and habitat use of these key Southern Ocean predators.</p>
+    <a href="https://doi.org/10.1038/s41597-024-03744-9" class="btn btn-primary">Full Publication</a>
   </div>
 </div>
 
@@ -235,17 +248,71 @@ In this section you can check a brief summary of my publications. They are separ
 :::{.g-col-12 .g-col-md-6}
 ```{=html}
 <div class="card" style="width: 100%;">
-  <img src="images/abstracts/borras_in_rev.jpg" class="card-img-top" alt="leps in Chile">
+  <img src="images/abstracts/queiros2024.jpg" class="card-img-top" alt="review trophic webs">
   <div class="card-body">
-    <h5 class="card-title" style="font-weight: bold;">Occurrence, residency, and habitat characterization of leopard seals in Chile (in Review)</h5>
-    <p class="card-text">Led by Renato Borras-Chavez, we present evidence that leopard seals have been living in Chile for centuries following multiyear resident leps, with numbers of leps increasing and several birth records for the region. Patagonia should be incorporated as part of the species breeding distribution.</p>
-    <a href="" class="btn btn-primary">Coming soon</a>
+    <h5 class="card-title" style="font-weight: bold;">Southern Ocean food-webs and climate
+change: A short review and future directions (2024)</h5>
+    <p class="card-text">Dr Jose Queiros is awesome we have worked together in the Association of Polar Early Career Scientists (APECS) for a long time, and he invited me to write with him this review. We synthesize current understanding of Southern Ocean food webs and their vulnerability to climate change. We examine the structure of these Antarctic ecosystems, highlighting the traditional view of a krill-dominated system while also emphasizing the importance of alternative food pathways. We also discussed various methodologies used to study these complex networks, their strengths, and limitations, and concludes by outlining future research directions and the significant role of early career researchers in advancing this critical field of polar study.</p>
+    <a href="https://doi.org/10.1371/journal.pclm.0000358" class="btn btn-primary">Full Publication</a>
   </div>
 </div>
-
 ```
 :::
 
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/olivares2019.jpg" class="card-img-top" alt="penguin viruses">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Novel penguin Avian avulaviruses 17, 18 and 19 are widely distributed in the Antarctic Peninsula (2019)</h5>
+    <p class="card-text">Lead by Florencia Olivares, we investigated the prevalence and distribution of three newly identified penguin avian avulaviruses (PAVs 17, 18, and 19) across the Antarctic Peninsula. Samples came from– Gentoo, Adélie, and Chinstrap – at seven different locations and used antibody tests to determine if the penguins had been exposed to these viruses. The findings revealed that these novel PAVs are widespread among the studied penguin populations throughout the Antarctic Peninsula, suggesting the viruses can infect all three species over a large geographical range. This research provides the first broad serological evidence of these viruses in Antarctic penguins.</p>
+    <a href="https://doi.org/10.1111/tbed.13309" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+:::{.g-col-12}
+## A Past life of Kelp Forest Ecology
+
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/borras2012.jpg" class="card-img-top" alt="kelp harvesting">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Testing sustainable management in Northern Chile: harvesting Macrocystis pyrifera (Phaeophyceae, Laminariales). A case study (2012)</h5>
+    <p class="card-text">My goal was to identify a sustainable harvesting protocol for Macrocystis pyrifera (giant kelp) that could support the local kelp harvesting industry while preserving the kelp resources. I tested harvesting methods in northern Chile, including the typical which was removing the complete algal unit. then I evaluate the impacts on kelp regrowth, recruitment, herbivores, and algal diversity. We end up recommending harvesting half the fronds (half the stipes growing on a bolder) as the most sustainable approach for ecological and industry balance.</p>
+    <a href="https://doi.org/10.1007/s10811-012-9829-x" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/borras2016.jpg" class="card-img-top" alt="alginate quality">
+   <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Repetitive harvesting of Macrocystis pyrifera (Phaeophyceae) and its effects on chemical constituents of economic value (2016)</h5>
+    <p class="card-text">I examinate whether repeated harvesting of giant kelp over a three-month period altered the alginate yield, quality, and the nutritional content relevant for aquaculture. Their findings suggest that while these properties fluctuate over time, likely due to environmental factors, repetitive harvesting itself does not significantly degrade these economically important constituents. This research contributes to understanding sustainable kelp harvesting practices, especially in regions where kelp abundance is low.</p>
+    <a href="https://doi.org/10.1515/bot-2015-0028" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
+
+:::{.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card" style="width: 100%;">
+  <img src="images/abstracts/gonzalez2014.jpg" class="card-img-top" alt="coalescence">
+  <div class="card-body">
+    <h5 class="card-title" style="font-weight: bold;">Morphological, ultrastructural, and genetic characterization of coalescence in the intertidal and shallow subtidal kelps Lessonia spicata and L. berteroana (Laminariales, Heterokontophyta) (2014)</h5>
+    <p class="card-text">This was a beautiful work that I did for three years while working with the brilliant National Sciences Award, Dr. Bernabe Santelices (and his gang). Led by Dr. Alejandra Gonzalez, we investigate the phenomenon of coalescence in kelps (where individual kelp individuals fuse together) in two dominant Chilean kelp species. I did the lab work to characterize the cellular changes during fusion of natural populations to determine the prevalence of these fused, genetically diverse individuals, known as chimeras. We found that coalescence is a frequent process in these kelps, involving specific modifications at the cellular level, and that chimerism is widespread in natural settings, suggesting potential ecological advantages for these fused organisms in their intertidal and shallow subtidal habitats.</p>
+    <a href="https://doi.org/10.1007/s10811-013-0112-6" class="btn btn-primary">Full Publication</a>
+  </div>
+</div>
+```
+:::
 :::
 
 
